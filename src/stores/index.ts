@@ -1,1 +1,1 @@
-export * from './demo.store'
+export * from './dialog.store'
